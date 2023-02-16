@@ -29,3 +29,5 @@ My first README.
 - 2023-02-13 13:10: recorded usage and setup clarification for `alx-pre_course`.
 
 - 2023-02-15 12:26: documented implementation notes for `alx-pre_course`.
+
+- 2023-02-16 18:46: captured maintenance observations for `alx-pre_course`.
