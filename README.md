@@ -329,3 +329,5 @@ My first README.
 - 2023-05-10 11:30: captured maintenance observations for `alx-pre_course`.
 
 - 2023-05-10 11:31: noted follow-up engineering tasks for `alx-pre_course`.
+
+- 2023-05-18 18:34: noted follow-up engineering tasks for `alx-pre_course`.
