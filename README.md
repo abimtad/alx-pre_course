@@ -151,3 +151,5 @@ My first README.
 - 2023-07-26 13:05: updated project backlog context for `alx-pre_course`.
 
 - 2023-07-27 13:09: updated project backlog context for `alx-pre_course`.
+
+- 2023-07-27 13:10: captured maintenance observations for `alx-pre_course`.
