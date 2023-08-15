@@ -165,3 +165,5 @@ My first README.
 - 2023-08-08 16:08: recorded usage and setup clarification for `alx-pre_course`.
 
 - 2023-08-14 12:11: recorded usage and setup clarification for `alx-pre_course`.
+
+- 2023-08-15 11:17: recorded usage and setup clarification for `alx-pre_course`.
