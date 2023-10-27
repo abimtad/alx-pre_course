@@ -213,3 +213,5 @@ My first README.
 - 2023-10-06 19:10: captured maintenance observations for `alx-pre_course`.
 
 - 2023-10-09 18:48: recorded usage and setup clarification for `alx-pre_course`.
+
+- 2023-10-27 18:05: updated project backlog context for `alx-pre_course`.
